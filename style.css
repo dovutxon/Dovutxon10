@@ -57,7 +57,7 @@ nav a.book-now {
 .hero {
   position: relative;
   height: 500px;
-  background-image: url('./Istanbul-cityscape.jpg'); /* Replace with actual image path */
+  background-image: url('./Istanbul-cityscape.jpg');
   background-size: cover;
   background-position: center;
 }

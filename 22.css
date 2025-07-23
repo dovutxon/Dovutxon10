@@ -52,7 +52,7 @@ body {
 }
 
 .info-background {
-  background-image: url('./Istanbul-cityscape.jpg'); /* Bedel sawirka sida ku habboon */
+  background-image: url('./12.webp') ; 
   background-size: cover;
   background-position: center;
   height: 80vh;
@@ -132,7 +132,6 @@ body {
 }
 
 .image-container {
-  /* background-color: #ddc4a3; */
   padding: 40px;
   display: flex;
   justify-content: center;
@@ -158,7 +157,7 @@ body {
   margin: auto;
 }
 .hero1 {
-  background-image: url('./turkya.jpg')  ; 
+  background-image: url('./10.webp')  ; 
   background-size: cover;
   background-position: center;
   height: 90vh;
@@ -243,4 +242,37 @@ hr {
 
 .social-icons a:hover {
   color: #ccc;
+}
+.container2 {
+  font-family: Georgia, serif;
+  background-color: #fefefe;
+  color: #111;
+  padding: 20px;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 36px;
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+}
+
+.option {
+  border-top: 1px solid #000;
+  padding-top: 20px;
+  margin-top: 20px;
+}
+
+h2 {
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+
+h3 {
+  font-size: 18px;
+  margin-bottom: 10px;
 }
